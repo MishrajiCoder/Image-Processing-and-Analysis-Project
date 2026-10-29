@@ -38,7 +38,7 @@ IPA Assignment/
 Clone the repository:
 
 ```bash
-git clone https://github.com/MishrajiCoder/Image-Processing-and-Analysis-Project
+git clone "https://github.com/MishrajiCoder/Image-Processing-and-Analysis-Project"
 cd "IPA Project"
 ```
 
