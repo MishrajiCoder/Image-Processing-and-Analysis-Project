@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 # FETCH AND STORING OF IMAGE PROCESSING OUTPUTS
 # ==========================================
 
-IMAGE_PATH = r"C:\Users\priya\OneDrive\Desktop\IPA Assignment\images\original.jpeg"  
+IMAGE_PATH = r"C:\Users\priya\OneDrive\Desktop\IPA Assignment\images\Photo.jpeg"  
 OUTPUT_DIR = r"C:\Users\priya\OneDrive\Desktop\IPA Assignment\outputs"              
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
