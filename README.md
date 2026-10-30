@@ -38,8 +38,8 @@ IPA Assignment/
 Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd "IPA Assignment"
+git clone "https://github.com/MishrajiCoder/Image-Processing-and-Analysis-Project"
+cd "IPA Project"
 ```
 
 Install the required libraries:
